@@ -21,3 +21,4 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 
 ### Activities
 - [10 Commandments](Ten_Commandments.md)
+- [Hacking History](Hacking_History.md)
