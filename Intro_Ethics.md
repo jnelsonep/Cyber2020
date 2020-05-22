@@ -18,3 +18,6 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 - Describe a major hacking event
 - Identify the vulnerability that led to the attacks
 - Suggest ways to prevent similar attacks
+
+### Activities
+- [10 Commandments](Ten_Commandments.md)
